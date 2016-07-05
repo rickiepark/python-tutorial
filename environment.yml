@@ -1,0 +1,5 @@
+name: python-tutorial
+dependencies:
+- python=3
+- ipython
+- ipython-notebook
