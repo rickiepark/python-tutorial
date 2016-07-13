@@ -3,3 +3,5 @@ dependencies:
 - python=3
 - ipython
 - ipython-notebook
+- pip:
+  - ujson
