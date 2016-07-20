@@ -3,5 +3,7 @@ dependencies:
 - python=3
 - ipython
 - ipython-notebook
+- requests
 - pip:
   - ujson
+  - aiohttp
