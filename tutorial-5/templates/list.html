@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+    <body>
+        <h1>전체 사용자<h1>
+        <ul>
+            {% for user in users %}
+            <li>{{ user.username }}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
