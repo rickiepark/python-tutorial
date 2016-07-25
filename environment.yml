@@ -4,6 +4,7 @@ dependencies:
 - ipython
 - ipython-notebook
 - requests
+- gevent
 - pip:
   - ujson
   - aiohttp
